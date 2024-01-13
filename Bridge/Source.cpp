@@ -125,6 +125,7 @@ int main()
 	delete a;
 	delete part;
 	
+
 	system("pause");
 	return 0;
 }
